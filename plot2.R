@@ -30,4 +30,6 @@ plot(DateTime, globalActivePower,
      xlab = "",
      ylab = "Global Active Power (kilowatts)")
 
+##  shuts down the specified (by default the current) device
+
 dev.off()

@@ -55,5 +55,5 @@ plot(DateTime, DataSet_Feb2007$Global_reactive_power,
      col = "black",
      xlab = "datetime", ylab = "Global_reactive_power")
 
-
+## shuts down the specified (by default the current) device
 dev.off()
